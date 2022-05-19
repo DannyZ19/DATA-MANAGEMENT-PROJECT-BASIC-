@@ -1,0 +1,15 @@
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\C Sharp Data Management Project.exe
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\C Sharp Data Management Project.deps.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\C Sharp Data Management Project.runtimeconfig.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\C Sharp Data Management Project.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\ref\C Sharp Data Management Project.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\bin\Debug\net6.0\C Sharp Data Management Project.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.csproj.AssemblyReference.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.AssemblyInfoInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.AssemblyInfo.cs
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.csproj.CoreCompileInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\ref\C Sharp Data Management Project.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Data Management Project\C Sharp Data Management Project\obj\Debug\net6.0\C Sharp Data Management Project.genruntimeconfig.cache
