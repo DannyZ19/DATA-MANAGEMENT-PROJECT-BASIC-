@@ -39,7 +39,7 @@ if (favouritesStr != "")
 
 
 
-List<string> accounts = new List<string>();
+
 
 // MENU \\
 
@@ -119,11 +119,6 @@ void OptionTwo()
             Console.WriteLine($"Here is {songs.name} by {songs.artist} \nGenre: {songs.genre}");
         }
     }
-    
-
-    
-    
-    
     
         
 }
